@@ -151,4 +151,97 @@ Village Level 4
 
 Each level unlocks new buildings.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Stage 7: Economy
 
+Introduce money generation.
+
+Example:
+
+Farm → Wheat
+
+Market buys Wheat
+
+Gold generated
+
+Flow:
+
+Food
+↓
+Trade
+↓
+Gold
+↓
+Construction
+
+Now the economy feels realistic.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Stage 8: Town Era
+
+Requirements:
+
+Population 50
+
+Village Hall Level 5
+
+Gold 10,000
+
+Unlock:
+
+🏪 Market
+
+🏫 School
+
+⚒ Blacksmith
+
+🏥 Clinic
+
+The village officially becomes a town.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Complete Progression
+Single Farmer
+↓
+Build Hut
+↓
+Get Villager
+↓
+Assign Work
+↓
+Build Farms
+↓
+Build Market
+↓
+Grow Population
+↓
+Build Village Hall
+↓
+Upgrade Village
+↓
+Become Town
+↓
+Become City
+↓
+Become Smart City
+↓
+Become Empire
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+What You Should Build First as a Developer
+
+Do not build the whole village.
+
+Build only this:
+
+Version 0.1
+Player
++
+Farm
++
+Gold Counter
+
+Features:
+
+1.Click farm
+2.Gain gold
+3.Display gold
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
